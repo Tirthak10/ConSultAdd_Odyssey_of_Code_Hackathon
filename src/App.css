@@ -1,0 +1,67 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --border-color: #cccccc;
+  --box-bg: #f9f9f9;
+  --icon-color: #666666;
+  --button-bg: #007bff;
+  --button-text: #ffffff;
+  --button-hover-bg: #0056b3;
+  --status-text: #333333;
+}
+
+body.dark-mode {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --border-color: #444444;
+  --box-bg: #1e1e1e;
+  --icon-color: #bbbbbb;
+  --button-bg: #1e88e5;
+  --button-text: #ffffff;
+  --button-hover-bg: #1565c0;
+  --status-text: #bbbbbb;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: var(--button-bg);
+  color: var(--button-text);
+}
+
+.app-header nav {
+  margin-left: auto; /* Move navigation to the right */
+  display: flex;
+  gap: 15px; /* Add spacing between navigation links */
+}
+
+.app-header a {
+  color: var(--button-text);
+  text-decoration: none;
+}
+
+.app-header a:hover {
+  text-decoration: underline;
+}
+
+.mode-toggle {
+  background: none;
+  border: 1px solid var(--button-text);
+  color: var(--button-text);
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-left: 20px; /* Add space between Help and mode toggle */
+}
+
+.mode-toggle:hover {
+  background-color: var(--button-hover-bg);
+}
