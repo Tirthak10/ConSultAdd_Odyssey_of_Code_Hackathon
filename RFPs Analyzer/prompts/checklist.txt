@@ -1,0 +1,41 @@
+Analyze the provided RFP document and create a detailed checklist covering the following aspects:
+
+1. Document Requirements:
+   - Required forms and documentation
+   - Submission deadlines and timeline
+   - Format and presentation requirements
+   - Number of copies required
+
+2. Technical Requirements:
+   - Scope of work
+   - Technical specifications
+   - Required deliverables
+   - Quality standards
+   - Performance metrics
+
+3. Compliance Requirements:
+   - Industry standards
+   - Regulatory requirements
+   - Certifications needed
+   - Security requirements
+   - Insurance requirements
+
+4. Financial Requirements:
+   - Budget constraints
+   - Pricing structure
+   - Payment terms
+   - Financial stability requirements
+
+5. Experience Requirements:
+   - Past performance requirements
+   - Similar project experience
+   - Team qualifications
+   - Industry expertise
+
+For each requirement:
+1. List the specific requirement
+2. Indicate if it is mandatory or preferred
+3. Note any specific metrics or thresholds
+4. Highlight any unusual or critical requirements
+
+Provide a clear YES/NO for each item and highlight any potential gaps or areas needing clarification.

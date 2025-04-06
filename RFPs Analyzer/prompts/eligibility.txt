@@ -1,0 +1,49 @@
+Based on the RFP requirements and company profile provided, perform a detailed eligibility analysis:
+
+1. Core Eligibility Criteria:
+   - Business registration and legal status
+   - Years in business
+   - Company size and revenue requirements
+   - Geographic location requirements
+   - Contract vehicle requirements
+
+2. Technical Capability Assessment:
+   - Required technical certifications
+   - Specific technology expertise
+   - Required infrastructure capabilities
+   - Team size and composition requirements
+   - Software/hardware capabilities
+
+3. Past Performance Evaluation:
+   - Number of similar projects required
+   - Project size requirements
+   - Industry-specific experience
+   - Government/commercial contract experience
+   - Success metrics and outcomes
+
+4. Financial Requirements:
+   - Annual revenue thresholds
+   - Financial stability indicators
+   - Working capital requirements
+   - Insurance coverage requirements
+   - Bond capability requirements
+
+5. Compliance Status:
+   - Required business certifications
+   - Security clearances
+   - Industry-specific compliance
+   - Quality management systems
+   - Environmental compliance
+
+For each category:
+1. Compare company profile against requirements
+2. Provide PASS/FAIL status with specific reasoning
+3. Identify any gaps or risks
+4. Calculate overall eligibility score
+5. Provide specific recommendations for addressing gaps
+
+Final Output:
+- Overall eligibility determination (GO/NO-GO)
+- Detailed justification for the determination
+- Risk level assessment (Low/Medium/High)
+- Specific areas needing attention or improvement

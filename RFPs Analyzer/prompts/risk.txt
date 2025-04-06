@@ -1,0 +1,57 @@
+Analyze the RFP and company profile to identify and assess potential risks across the following categories:
+
+1. Technical Risks:
+   - Technology complexity and maturity
+   - Integration challenges
+   - Resource availability
+   - Technical capability gaps
+   - Performance requirements risks
+
+2. Business Risks:
+   - Contract value vs. company capacity
+   - Resource allocation conflicts
+   - Market competition analysis
+   - Strategic alignment
+   - Growth/scaling requirements
+
+3. Financial Risks:
+   - Project profitability
+   - Cash flow requirements
+   - Payment terms impact
+   - Currency/market fluctuations
+   - Cost overrun potential
+
+4. Operational Risks:
+   - Timeline feasibility
+   - Resource availability
+   - Supply chain dependencies
+   - Quality control challenges
+   - Delivery logistics
+
+5. Compliance Risks:
+   - Regulatory requirements
+   - Certification maintenance
+   - Data security requirements
+   - Environmental compliance
+   - Legal obligations
+
+For each identified risk:
+1. Risk Description
+2. Probability (Low/Medium/High)
+3. Impact (Low/Medium/High)
+4. Risk Score (1-25)
+5. Mitigation Strategies
+6. Contingency Plans
+
+Output Format:
+- Risk Rating Matrix
+- Top 5 Critical Risks
+- Overall Risk Assessment Score
+- Recommended Risk Mitigation Strategies
+- Go/No-Go Recommendation based on Risk Profile
+
+Consider both:
+- Direct risks from RFP requirements
+- Indirect risks from market conditions
+- Company-specific risk factors
+- Industry-specific risk considerations

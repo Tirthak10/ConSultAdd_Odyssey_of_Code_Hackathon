@@ -1,0 +1,100 @@
+{
+  "company_info": {
+    "name": "Company Name",
+    "registration_number": "12345",
+    "year_established": "2000",
+    "business_type": "Corporation"
+  },
+  "legal_compliance": {
+    "business_registration": {
+      "status": "Active",
+      "expiry_date": "2025-12-31"
+    },
+    "tax_compliance": {
+      "status": "Compliant",
+      "last_filing_date": "2024-12-31"
+    },
+    "regulatory_bodies": [
+      {
+        "name": "FCC",
+        "registration_number": "FCC123",
+        "status": "Active"
+      }
+    ]
+  },
+  "certifications": [
+    {
+      "name": "ISO 9001",
+      "issuer": "ISO",
+      "expiry_date": "2025-06-30",
+      "status": "Valid"
+    }
+  ],
+  "insurance": {
+    "general_liability": {
+      "provider": "Insurance Co",
+      "policy_number": "GL123456",
+      "coverage_amount": "$2,000,000",
+      "expiry_date": "2025-12-31"
+    },
+    "professional_liability": {
+      "provider": "Insurance Co",
+      "policy_number": "PL123456",
+      "coverage_amount": "$1,000,000",
+      "expiry_date": "2025-12-31"
+    }
+  },
+  "compliance_policies": {
+    "data_protection": {
+      "has_policy": true,
+      "last_updated": "2024-01-01",
+      "certifications": ["GDPR", "CCPA"]
+    },
+    "employment": {
+      "has_policy": true,
+      "last_updated": "2024-01-01",
+      "compliances": ["EEOC", "Labor Laws"]
+    },
+    "anti_corruption": {
+      "has_policy": true,
+      "last_updated": "2024-01-01",
+      "training_frequency": "Annual"
+    }
+  },
+  "intellectual_property": {
+    "patents": [
+      {
+        "number": "US123456",
+        "status": "Active",
+        "expiry_date": "2030-12-31"
+      }
+    ],
+    "trademarks": [
+      {
+        "number": "TM123456",
+        "status": "Active",
+        "expiry_date": "2030-12-31"
+      }
+    ]
+  },
+  "past_performance": {
+    "government_contracts": [
+      {
+        "agency": "Agency Name",
+        "contract_number": "CONT123",
+        "value": "$1,000,000",
+        "completion_date": "2023-12-31",
+        "performance_rating": "Excellent"
+      }
+    ],
+    "commercial_contracts": [
+      {
+        "client": "Client Name",
+        "project": "Project Name",
+        "value": "$500,000",
+        "completion_date": "2023-12-31",
+        "reference_available": true
+      }
+    ]
+  }
+}

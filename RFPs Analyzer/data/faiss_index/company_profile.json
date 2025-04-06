@@ -1,0 +1,37 @@
+{
+    "company_name": "ConsultAdd Inc",
+    "duns_number": "116923458",
+    "uei": "UEI116923458",
+    "cage_code": "8WJG9",
+    "naics_codes": [
+      {"code": "541511", "description": "Custom Computer Programming Services"},
+      {"code": "541512", "description": "Computer Systems Design Services"},
+      {"code": "541519", "description": "Other Computer Related Services"}
+    ],
+    "sam_registration_status": "Active",
+    "contract_vehicles": [
+      "GSA IT Schedule 70",
+      "NY OGS",
+      "NJ DPMC",
+      "TX DIR"
+    ],
+    "certifications": [
+      "Small Business",
+      "Minority-Owned Business"
+    ],
+    "past_performance": [
+      {
+        "agency": "USDA",
+        "project": "Cloud Migration",
+        "value": "$500K",
+        "duration": "12 months"
+      },
+      {
+        "agency": "DOE",
+        "project": "Data Platform Modernization",
+        "value": "$750K",
+        "duration": "18 months"
+      }
+    ]
+  }
+  
